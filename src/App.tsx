@@ -69,7 +69,7 @@ function App() {
               <span className="text-2xl text-gray-500 font-bold">Admin DashBoard</span>
               <div className="grid grid-cols-1 lg:grid-cols-3 pt-8 pb-4 gap-4">
                 {/* Card 1 */}
-                <div className="px-4 pt-4 pb-6 border border-gray-300 rounded-xl bg-gray-100/70 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+                <div className="px-4 pt-4 pb-6 border border-gray-300 rounded-xl bg-slate-50 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                     {/* Icon Title */}
                     <div className="flex items-center gap-4">
                       <div className="w-12 h-12 bg-blue-400 text-blue-700 flex items-center justify-center rounded-full">
@@ -83,7 +83,7 @@ function App() {
                       </div>
                 </div>
                 {/* Card 2 */}
-                <div className="px-4 pt-4 pb-6 border border-gray-300 rounded-xl bg-gray-100/70 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+                <div className="px-4 pt-4 pb-6 border border-gray-300 rounded-xl bg-slate-50 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                     {/* Icon Title */}
                     <div className="flex items-center gap-4">
                       <div className="w-12 h-12 bg-green-400 text-green-700 flex items-center justify-center rounded-full">
@@ -97,7 +97,7 @@ function App() {
                       </div>
                 </div>
                 {/* Card 3 */}
-                <div className="px-4 pt-4 pb-6 border border-gray-300 rounded-xl bg-gray-100/70 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
+                <div className="px-4 pt-4 pb-6 border border-gray-300 rounded-xl bg-slate-50 hover:shadow-xl hover:-translate-y-1 transition-all duration-300">
                     {/* Icon Title */}
                     <div className="flex items-center gap-4">
                       <div className="w-12 h-12 bg-yellow-400 text-yellow-700 flex items-center justify-center rounded-full">
